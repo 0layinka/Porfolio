@@ -3,8 +3,8 @@ import Navbar from './Components/Navbar';
 import Footer from "./Components/Footer";
 import AboutMe from './pages/AboutMe';
 import Projects from "./pages/Projects";
-import Experience from "./pages/experience";
-import Contact from "./pages/contact";
+import Experience from "./pages/Experience";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
